@@ -5,8 +5,8 @@ import time
 "Creating the test data"
 Array_list = list()
 for _ in range(10000):
- temp = random.randint(0, 10000)
- Array_list.append(temp)
+  temp = random.randint(0, 10000)
+  Array_list.append(temp)
 
 
 
